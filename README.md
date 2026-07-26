@@ -53,7 +53,7 @@ Organizations require HR dashboards to understand employee attrition, workforce 
 
 ---
 
-## 📁 Files Included
+# Files Included
 - HR Analytics Dashboard.pbix
 - Dataset.xlsx
 - Dashboard Screenshot
